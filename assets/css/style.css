@@ -1,0 +1,23 @@
+.nav-logo {
+  max-width: 4rem;
+}
+
+.homepage-logo {
+  max-width: 6rem;
+}
+
+.border.decor-stripe {
+  border-width: thick !important;
+}
+
+.nav-item.active {
+  font-weight: bold;
+}
+
+a:not(.btn,.text-dark) {
+  color: #365 !important;
+}
+
+h1,h2,h3,h4,h5,.h1,.h2,.h3,.h4,.h5 {
+  font-family: 'Nanum Myeongjo ExtraBold', serif
+}

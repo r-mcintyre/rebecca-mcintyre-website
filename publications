@@ -1,0 +1,183 @@
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Resources - Rebecca McIntyre, RP-Q</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+  <!--Google fonts links-->
+  <link href="https://fonts.googleapis.com/css?family=Raleway:400,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+
+  <link rel="stylesheet" href="assets/css/fonticons.css">
+  <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+  <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/css/style.css">
+
+  <script src="assets/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+</head>
+
+<body data-spy="scroll" data-target=".navbar-collapse">
+  <main>
+    <div class="container">
+
+      <nav class="navbar navbar-expand-lg d-flex flex-wrap justify-content-between pt-3">
+        <div class="d-flex align-items-center mb-2 mb-md-0 me-md-auto">
+          <a href="/index.html" class="navbar-brand text-dark text-decoration-none">
+            <img class="nav-logo mr-1" src="assets/images/logo.png" alt=""/>
+          </a>
+          <span class="fs-4"><span class="h3">Rebecca McIntyre, RP-Q</span><br>Inclusive, mindful, & authentic psychotherapy</span>
+        </div>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#header-nav" aria-controls="header-nav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="fa fa-bars"></span>
+        </button>
+        <div id="header-nav" class="collapse navbar-collapse">
+          <ul class="navbar-nav mb-2 ml-auto mb-lg-0 d-flex align-items-center">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Welcome</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.html">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="faq.html">FAQ</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="book.html">Book a session</a>
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <div class="border border-success decor-stripe m-2"></div>
+      <div class="border border-primary decor-stripe m-2"></div>
+      <div class="border border-warning decor-stripe m-2"></div>
+
+      <!-- Immediate section-->
+      <section id="immediate" class="px-5 pb-3">
+        <div class="row text-center">
+          <div class="col">
+            <h1 class="py-4">Resources</h1>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-8 d-flex align-items-center">
+            <div>
+              <p><strong>Note</strong>: these resources are not a replacement for therapy. I am not responsible for the claims, information, or representation given by these resources.</p>
+              <p><strong>In emergencies</strong>, call 911 or go to the nearest hospital emergency room.</p>
+              <p><strong>For immediate distress support:</strong></p>
+              <ul>
+                <li>Mental Health Crisis Line (Ottawa): <a target="_blank" href="https://crisisline.ca/about-us/">CrisisLine.ca/about-us</a></li>
+                <li>Distress Centre (Ottawa): <a target="_blank" href="http://www.dcottawa.on.ca">dcOttawa.on.ca</a></li>
+                <li>Crisis Services (Canada): <a target="_blank" href="https://talksuicide.ca/">TalkSuicide.ca</a></li>
+              </ul>
+              <p><strong>Walk-in counselling:</strong></p>
+              <ul>
+                <li>The Walk-In Counselling Clinic: <a target="_blank" href="https://walkincounselling.com/">WalkinCounselling.com</a></li>
+                <li>Counselling Connect: <a target="_blank" href="https://www.counsellingconnect.org/contact-us">CounsellingConnect.org/contact-us</a></li>
+                <li>Youth Services Bureau (YSB): <a target="_blank" href="http://chat.ysb.ca">ysb.ca</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-4 d-flex align-items-center">
+            <img class="w-100" src="assets/images/walkins.jpg" alt="">
+          </div>
+        </div>
+      </section> <!--End of Immediate section-->
+
+      <!--Specific Issues Section-->
+      <section id="specific-issues" class="px-5 py-3 bg-light">
+        <div class="row">
+          <div class="col-md-4 d-flex align-items-center">
+            <img class="w-100" src="assets/images/specific-help.jpg" alt="">
+          </div>
+          <div class="col-md-8">
+            <p><strong>Help for Specific Issues:</strong></p>
+            <ul>
+              <li>Trans Lifeline: for trans peer support that is divested from police, visit
+                <a target="_blank" href="https://translifeline.org">TransLifeLine.org</a></li>
+              <li>Black Youth Helpline: <a target="_blank" href="https://blackyouth.ca/">BlackYouth.ca</a></li>
+              <li>Indigenous Women’s Talk 4 Healing: for peer support, by and for Indigenous women across Ontario,
+                visit Talk4Healing.com<a target="_blank" href="https://talk4healing.com/">Talk4Healing.com</a></li>
+              <li>Overdose Prevention: For anonymous, non-judgemental, client-led overdose monitoring, download Brave for
+                iPhone or Android, available here: <a target="_blank" href="https://www.thebraveapp.com/">TheBraveApp.com</a>.
+                Volunteers are available to follow through on an overdose-prevention plan of your design.</li>
+              <li>Gambling: For support around gambling, gaming, and technology, visit
+                <a target="_blank" href="https://www.problemgambling.ca/gambling-help/">ProblemGambling.ca/gambling-help</a></li>
+            </ul>
+          </div>
+        </div>
+      </section> <!--End of Specific Issues Section-->
+
+      <!--Meditation Section-->
+      <section id="meditation" class="px-5 py-3">
+        <div class="row">
+          <div class="col-md-8">
+            <p><strong>Guided Meditations:</strong></p>
+            <p>Find free guided meditation practices at the following sites:</p>
+            <ul>
+              <li><a target="_blank" href="https://insighttimer.com/">www.InsightTimer.com</a></li>
+              <li><a target="_blank" href="http://www.mindful.org">www.Mindful.org</a></li>
+              <li><a target="_blank" href="https://www.tarabrach.com/guided-meditations/">www.TaraBrach.com/guided-meditations</a></li>
+              <li><a target="_blank" href="https://self-compassion.org/category/exercises/">www.self-compassion.org/category/exercises</a></li>
+            </ul>
+          </div>
+          <div class="col-md-4 d-flex align-items-center">
+            <img class="w-100" src="assets/images/meditations.jpg" alt="">
+          </div>
+        </div>
+      </section> <!--End of Meditation Section-->
+
+      <!-- footer Section -->
+      <footer id="footer" class="footer bg-light pt-1">
+        <div class="border border-success decor-stripe m-2"></div>
+        <div class="border border-primary decor-stripe m-2"></div>
+        <div class="border border-warning decor-stripe m-2"></div>
+        <div class="row px-5 py-3">
+          <div class="col-12 col-lg-4">
+            <h2 class="h3">Navigation</h2>
+            <ul>
+              <li><a href="index.html">Welcome</a></li>
+              <li><a href="about.html">About</a></li>
+              <li><a href="faq.html">FAQ</a></li>
+              <li><a href="policies.html">Policies</a></li>
+              <li><a href="resources.html">Resources</a></li>
+              <li><a href="book.html">Book a session</a></li>
+            </ul>
+          </div>
+          <div class="col-12 col-lg-4">
+            <h2 class="h3">Contact info</h2>
+            <p>Please see my <a href="policies.html">policies</a> page for information on communications and social media.</p>
+            <p><a href='mailto&#58;Rebe%63caMc%49nt&#64;g&#37;6Dai&#108;&#46;c&#111;m'>Reb&#101;ccaM&#99;&#73;nt&#64;g&#109;&#97;&#105;&#108;&#46;com</a></p>
+            <p><a href="tel:16133196790">613-319-6790</a>
+            <p class="text-center lead">
+              <a class="px-1 text-dark" target="_blank" href="https://www.facebook.com/RebeccaMcInt/" title="@RebeccaMcInt on Facebook"><span class="fa fa-facebook-square"></span><span class="sr-only">@RebeccaMcInt on Facebook</span></a>
+              <a class="px-1 text-dark" target="_blank" href="https://twitter.com/RebeccaMcInt" title="@RebeccaMcInt on Twitter"><span class="fa fa-twitter-square"></span><span class="sr-only">@RebeccaMcInt on Twitter</span></a>
+              <a class="px-1 text-dark" target="_blank" href="https://www.instagram.com/RebeccaMcInt/" title="@RebeccaMcInt on Instagram"><span class="fa fa-instagram"></span><span class="sr-only">@RebeccaMcInt on Instagram</span></a>
+            </p>
+          </div>
+          <div class="col-12 col-lg-4">
+            <p>Please note: I do not provide crisis services. If you are in need of immediate assistance, please call 9-1-1,
+              go to an emergency room, or call a distress line. Additional crisis services are listed on my
+              <a href="resources.html">resources</a> page.</p>
+            <div class="text-center">
+              <img class="w-25 pt-3" src="assets/images/pride-flag.jpg" alt="">
+            </div>
+          </div>
+        </div>
+      </footer><!-- End of footer -->
+
+      <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
+
+</body>
+
+</html>
